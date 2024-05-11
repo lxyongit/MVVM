@@ -264,4 +264,6 @@ VUE中使用cancel函数，以template为key,render函数为value,当我们的te
 
 7,VUEX  https://vuex.vuejs.org/zh-cn/
 
+临时邮箱 https://email-temporary.com/en
+
  
